@@ -1,0 +1,7 @@
+@Head_Title(FennScript SCR Installer)
+@Head_para(What)
+
+;InstlFil(FennScriptSCRinstl.fenscr)
+;DupFil(FennScriptSCRinstl.fenscr)
+;OpenFil(FennScriptSCRinstl.fenscr)
+;ZipFil(FennScriptSCRinstl.fenscr)
